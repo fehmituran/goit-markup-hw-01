@@ -1,6 +1,8 @@
 # goit-markup-hw-01
 Home Work 1
 
+My site is live at https://fehmituran.github.io/goit-markup-hw-01/
+
 https://www.figma.com/file/Gxt9NIbdH160tnSGdsnDvO/Untitled?node-id=0%3A1&t=NrTjktG3wH10iqmZ-1
 
 ![hw1](https://user-images.githubusercontent.com/86859577/208514722-5c3ed593-03e3-45b4-b028-2aed3ea6f41d.PNG)
